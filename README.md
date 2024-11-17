@@ -1,5 +1,5 @@
 1. First Clone the repo:
-   >> https://github.com/TomCat-11/Random_Password_Generator.git
+   >> git clone https://github.com/TomCat-11/Random_Password_Generator.git
 
 2. Install Requirements under virtual environment.
    
